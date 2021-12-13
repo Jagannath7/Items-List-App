@@ -15,7 +15,7 @@ function Details(props) {
   return (
     <div class="details">
       <div class="header">
-        <h4>
+        <h3>
           {header} {props.item_number}
         </h4>
       </div>
